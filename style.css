@@ -1,0 +1,89 @@
+.xyz{
+    flex: 1;
+    text-align: right;
+}
+
+
+.xyz{
+    list-style: none;
+    display: inline-block;
+    padding: 8px 12px;
+    position: relative;
+}
+
+.body{
+    background-color:black;
+}
+.header{
+   background-color:black;
+
+}
+.header h4,h2 {
+    color: whitesmoke;
+}
+
+.header p {
+    color:whitesmoke;
+}
+.col4  {
+    color: whitesmoke;
+    
+}
+
+.abc{color:whitesmoke;
+    background-color: black;
+
+}
+
+.about us{
+
+}
+
+.footer{
+     color: whitesmoke;
+}
+.col-4 {
+border: 3px solid whitesmoke;
+border-radius: 5px;
+}
+
+.col-3{
+ border: 3px solid whitesmoke;
+border-radius: 5px;
+margin-top: 20px;
+}
+
+.socials{
+    list-style: none;
+    display: inline-flex;
+    }
+i{
+    padding-right: 50px;
+}
+
+.class=333{
+    color:w
+}
+    
+form{
+color: whitesmoke;
+border: 3px solid whitesmoke;
+text-align: ;
+}
+.card {
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0, 0, 0, 0.125);
+    border-radius: 0.25rem;
+  }
+  
+
+
+
